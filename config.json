@@ -1,4 +1,4 @@
 {
-  "public_main_backend":"192.168.1.3:8081",
+  "public_main_backend":"192.168.1.3:8082",
   "public_tracker_backend":"192.168.1.3:8081"
 }
